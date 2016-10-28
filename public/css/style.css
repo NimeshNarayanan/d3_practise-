@@ -1,0 +1,25 @@
+.container{
+	border:0px solid black;
+}
+.barContainer{
+	display: inline;
+}
+
+svg{
+	border:1px solid blue;
+}
+.grid{
+	stroke: lightgrey;
+}
+.random_number{
+	stroke: steelblue;
+	fill:none;
+}
+path{
+    fill:none;
+    stroke:black;
+}
+.head{
+    font
+    float:center;
+}
